@@ -1,7 +1,7 @@
 Lisbon
 ======
 
-![](https://cldup.com/Tx2SFugO54-1200x1200.jpeg)
+![](https://raw.githubusercontent.com/nodeschool/lisbon/master/logos/NodeSchool%20LX%20B.png)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
