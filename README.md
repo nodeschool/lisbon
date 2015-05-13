@@ -1,6 +1,8 @@
 Lisbon
 ======
 
+![](https://cldup.com/Tx2SFugO54-1200x1200.jpeg)
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Lisbon NodeSchool events are currently organized under the umbrella of the require('lx') community (this doesn't mean that require('lx') has any ownership or anything, we simply wanted to avoid to fragment the community in different communication channels :))
