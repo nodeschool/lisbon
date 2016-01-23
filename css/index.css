@@ -1,0 +1,88 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.313em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.element {
+  position: relative;
+  float: left;
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+  width: 79.0833333333%;
+  min-height: 78px;
+  margin: 27px 0 0 10.91667%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.element-1 {
+  z-index: 1;
+  width: 100.4999999999%;
+  height: 480px;
+  margin: -5px 0 0 -0.5%;
+  background-color: rgb(248, 220, 17);
+}
+
+.element-2 {
+  clear: both;
+  z-index: 0;
+  width: 0.7999999999%;
+  margin: -409px 0 0 16%;
+  background-color: rgb(222, 222, 222);
+}
+
+.image-1 {
+  position: relative;
+  z-index: 2;
+  width: 346px;
+  margin: -455px 0 0 35.59896%;
+}
+
+.image-2 {
+  clear: both;
+  width: 734px;
+  margin: 34px 0 0 19%;
+}
+
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 1.143em;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
